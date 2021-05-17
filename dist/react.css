@@ -1,0 +1,26 @@
+@font-face {
+    font-family:'Pangolin';
+    src: url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Pangolin&display=swap');
+}
+html{
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family:'Pangolin';
+}
+
+body{
+    background-color: whitesmoke;
+    color: #222;
+    text-align:center;
+}
+.menu{
+    width: 40%;
+    height: 2rem;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+}

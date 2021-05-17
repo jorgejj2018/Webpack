@@ -1,0 +1,1 @@
+(()=>{var o;console.log("hola archivo sin configuracion carpeta FOO"),o=[].concat([1,2,3]),console.log(o)})();

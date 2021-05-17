@@ -1,0 +1,7 @@
+{
+    "links":[
+        ["VanillaJs" , "index.html"],
+        ["React" , "react.html"],
+        ["TypeScrip" , "ts.html"]
+    ]
+}
