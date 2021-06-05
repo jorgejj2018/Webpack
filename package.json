@@ -32,5 +32,13 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgejj2018/Webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jorgejj2018/Webpack/issues"
+  },
+  "homepage": "https://github.com/jorgejj2018/Webpack#readme"
 }
